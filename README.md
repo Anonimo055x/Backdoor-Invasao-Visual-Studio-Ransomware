@@ -12,7 +12,7 @@ quinto modifique a conecao em url,IP,MacAdress.
 
 Boa diversao :)
 
-<a href="https://ibb.co/bQNkC7t"><img src="https://i.ibb.co/S5VzMJS/backdoor2.png" alt="backdoor2" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'>image de a</a><br />
+<a href="https://ibb.co/bQNkC7t"><img src="https://i.ibb.co/S5VzMJS/backdoor2.png" alt="backdoor2" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'></a><br />
 
 Provar que esta compilando...
 
