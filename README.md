@@ -1,0 +1,1 @@
+# Backdoor-Invasao-Visual-Studio-Ransomware
